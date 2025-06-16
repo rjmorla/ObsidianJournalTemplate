@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "d4d7c6d0dffe6b95",
+    "type": "split",
+    "children": [
+      {
+        "id": "2516b7afa19e9c9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "034df0bb5e51f8cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/Personal/_Personal Productivity/Pomodoro Log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pomodoro Log"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3031ee864cac9114",
+    "type": "split",
+    "children": [
+      {
+        "id": "8298a7d8604756c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cae58f55cf2026b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7099b282f2235693",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4d21000fd52b15e2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226.5
+  },
+  "right": {
+    "id": "1b97290e6c90d13d",
+    "type": "split",
+    "children": [
+      {
+        "id": "259404a226349c1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c612b347cdfddfd0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e1d34830208df77c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "cadb8ecf5551ffae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 Areas/Personal/_Personal Productivity/Pomodoro Log.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pomodoro Log"
+            }
+          },
+          {
+            "id": "f7e96457404c8518",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2 Areas/Personal/_Personal Productivity/Pomodoro Log.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pomodoro Log"
+            }
+          },
+          {
+            "id": "a19270a41c3ae8b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2 Areas/Personal/_Personal Productivity/Pomodoro Log.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Pomodoro Log"
+            }
+          },
+          {
+            "id": "7a4d61bbb7edf1a0",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "quickadd:QuickAdd": false,
+      "daily-notes:Open today's daily note": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "obsidian-excalidraw-plugin:New drawing": true,
+      "templater-obsidian:Templater": true,
+      "pomodoro-timer:Toggle timer panel": true,
+      "obsidian-git:Open Git source control": true,
+      "periodic-notes:Open today": true,
+      "obsidian-kanban:Create new board": true
+    }
+  },
+  "active": "034df0bb5e51f8cd",
+  "lastOpenFiles": [
+    "README.md",
+    "2 Areas/Personal/_Personal Productivity/Pomodoro Log.md",
+    "Untitled Kanban.md",
+    "Assets/Templates/Weekly Planning Kanban Template.md",
+    "Assets/Templates/Quarterly Planning Template.md",
+    "Assets/Templates/Daily Journal Template.md",
+    "2 Areas/Personal/_Personal Productivity/Daily Journal",
+    "2 Areas/Personal/_Personal Productivity",
+    "2 Areas/Personal",
+    "2 Areas/_Planner/3 Quarterly Planning",
+    "2 Areas/_Planner/2 Monthly Planning",
+    "2 Areas/_Planner/1 Weekly Planning",
+    "2 Areas/_Planner/Untitled.md",
+    "2 Areas/_Planner.md",
+    "2 Areas/_Planner",
+    "Assets/Templates/Basic Code Note Template.md",
+    "Assets/Templates/Template Repos.md",
+    "Assets/Templates/Basic Note Template.md",
+    "Assets/Templates",
+    "Assets/Excalidraw",
+    "Untitled.md",
+    "Assets",
+    "Welcome.md"
+  ]
+}

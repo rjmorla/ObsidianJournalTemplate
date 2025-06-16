@@ -1,0 +1,33 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "YYYY/MM/YYYY-MM-DD",
+    "template": "Assets/Templates/Daily Journal Template.md",
+    "folder": "2 Areas/Personal/_Personal Productivity/Daily Journal",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "YYYY/[W]ww",
+    "template": "Assets/Templates/Weekly Planning Kanban Template.md",
+    "folder": "2 Areas/_Planner/1 Weekly Planning",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "quarterly": {
+    "format": "YYYY/[Q]Q",
+    "template": "Assets/Templates/Quarterly Planning Template.md",
+    "folder": "2 Areas/_Planner/3 Quarterly Planning",
+    "enabled": true
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}
